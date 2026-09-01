@@ -1,0 +1,25 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oluwafemi-Codes/My-Project-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Oluwafemi-Codes/My-Project-/issues"
+  },
+  "homepage": "https://github.com/Oluwafemi-Codes/My-Project-#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
